@@ -1,25 +1,13 @@
 
 # Git and GitHub Training Outline
 
-## 1. Introduction to Version Control
-### What is Version Control?
-- **Definition and Benefits**
-- **Differences Between Centralized and Distributed Version Control**
-
-## 2. Introduction to Git
+## 1. Introduction to Git
 ### What is Git?
 - **Overview of Git and Its Purpose**
 - **Key Features and Advantages**
-### Setting Up Git
-- **Installation**
-  - Windows
-  - macOS
-  - Linux
-- **Basic Configuration**
-  - `username`
-  - `email`
 
-## 3. Basic Git Commands
+
+## 2. Basic Git Commands
 ### Creating a Repository
 - `git init`
 - `git clone`
@@ -36,14 +24,14 @@
 - `git merge` (merging branches)
 - Resolving merge conflicts
 
-## 4. Introduction to GitHub
+## 3. Introduction to GitHub
 ### What is GitHub?
 - **Overview of GitHub and Its Purpose**
 - **Key Features**
   - Repositories
   - Issues
   - Pull Requests
-## 5. GitHub Workflow
+## 4. GitHub Workflow
 ### Creating a Repository on GitHub
 - Repository setup
 - Adding a README
