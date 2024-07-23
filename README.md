@@ -30,15 +30,8 @@
 ## 3. Introduction to GitHub
 ### What is GitHub?
 ![enter image description here](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/develop-app-with-salesforce-cli-and-source-control/add-salesforce-dx-project-to-source-control/images/bf546ec3acd964673bf5f6302125fd93_step-4-github-and-git-clones.png)
-- **Overview of GitHub and Its Purpose**
-- **Key Features**
-  - Repositories
-  - Issues
-  - Pull Requests
+
 ## 4. GitHub Workflow
-### Creating a Repository on GitHub
-- Repository setup
-- Adding a README
 ### Connecting Local Repositories to GitHub
 - `git remote add origin`
 - `git push` (pushing changes)
@@ -46,4 +39,3 @@
 ### Collaborating on GitHub
 - Forking repositories
 - Pull requests (creating, reviewing, merging)
-- Issues and project management
